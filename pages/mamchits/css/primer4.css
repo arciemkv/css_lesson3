@@ -20,6 +20,7 @@ p {
 }
 .podpis {
     font-weight: bold;
+    text-align: center;
 }
 .ev {
     padding: 3px;
@@ -130,4 +131,10 @@ ul.spisok li a:hover {
     height: auto;
     clear: both;
     padding: 15px;
+}
+.box {
+    width: 199px;
+    height: 164px;
+    float: left;
+    padding: 20px 12px 20px 12px;
 }
