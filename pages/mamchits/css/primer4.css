@@ -64,3 +64,11 @@ ul.spisok li a:hover {
     text-decoration: underline;
     color: #E459EF;
 }
+#footer {
+    width: 950px;
+    height: 51px;
+    color: #E459EF;
+    background: url(../../../images/footer.gif) repeat-x;
+    padding-top: 30px;
+    text-align: center;
+}
