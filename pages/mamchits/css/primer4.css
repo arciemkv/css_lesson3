@@ -54,7 +54,7 @@ ul.spisok {
     list-style-position: inside;
     padding: 0;
     margin: 0;
-    line-height: 30px;
+    line-height: 28px;
 }
 ul.spisok li a {
     padding: 10px 0 10px 0;
