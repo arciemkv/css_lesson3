@@ -35,6 +35,7 @@ p {
 #lf {
     float: right;
     padding: 3px;
+    margin-left: 10px;
     border: 1px #E459EF solid;
 }
 
@@ -79,10 +80,11 @@ ul.spisok li a:hover {
 }
 
 #footer {
+    clear: both;
     width: 950px;
     height: 51px;
     color: #E459EF;
-    background: url(../../../images/footer.gif) repeat-x bottom;
+    background: url(../../../images/footer.gif) repeat-x top;
     padding-top: 30px;
     text-align: center;
 }
@@ -128,6 +130,10 @@ ul.spisok li a:hover {
     margin: 20px 0 0 30px;
 }
 
+#latest .podpis {
+    text-align: left;
+}
+
 #center_content {
     width: 950px;
     height: auto;
@@ -150,7 +156,7 @@ ul.spisok li a:hover {
 
 .fotos {
     width: auto;
-    height: auto;
+    height: 195px;
     clear: both;
     padding: 15px;
 }
