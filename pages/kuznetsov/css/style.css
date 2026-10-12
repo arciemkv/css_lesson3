@@ -86,3 +86,78 @@ ul.spisok li a:hover {
     padding-top: 30px;
     text-align: center;
 }
+
+#main_block {
+    width: 950px;
+    height: auto;
+    padding: 0;
+    margin: auto;
+    position: relative;
+    background-color: white;
+}
+
+#me {
+    position: absolute;
+    top: 220px;
+    right: 40px;
+    z-index: 1000;
+}
+
+#logo {
+    width: 245px;
+    height: 61px;
+    float: left;
+    padding: 35px 0 0 20px;
+}
+
+#header {
+    width: 950px;
+    height: 175px;
+    background: url(../../../images/top_bg.jpg) no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+#latest {
+    width: 400px;
+    height: auto;
+    float: left;
+    padding: 0 15px 0 10px;
+    border-left: 1px #8c3426 dotted;
+    border-right: 1px #8c3426 dotted;
+    margin: 20px 0 0 30px;
+}
+
+#center_content {
+    width: 950px;
+    height: auto;
+    clear: both;
+    padding-top: 25px;
+    background: url(../../../images/center_bg.gif) no-repeat top;
+}
+
+.left_content {
+    width: 400px;
+    float: left;
+    padding: 20px;
+}
+
+.right_content {
+    width: 200px;
+    float: left;
+    padding: 20px 5px 0 10px;
+}
+
+.fotos {
+    width: auto;
+    height: auto;
+    clear: both;
+    padding: 15px;
+}
+
+.box {
+    width: 199px;
+    height: 164px;
+    float: left;
+    padding: 20px 12px 20px 12px;
+}
